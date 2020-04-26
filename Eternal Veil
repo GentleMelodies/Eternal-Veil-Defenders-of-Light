@@ -1,0 +1,3305 @@
+settings
+{
+	main
+	{
+		Description: "Welcome to Eternal Veil | Defend Our World |Discord: Medora#11884 |     Game-Version: 2.4.3"
+	}
+
+	lobby
+	{
+		Match Voice Chat: Enabled
+		Max Spectators: 12
+		Max Team 1 Players: 6
+		Return To Lobby: Never
+		Team Balancing: After A Mirror Match
+	}
+
+	modes
+	{
+		Elimination
+
+		General
+		{
+			Draw After Match Time Elapsed With No Tiebreaker: 180
+			Reveal Heroes: On
+			Reveal Heroes After Match Time Elapsed: 180
+			Score To Win: 4
+			Spawn Health Packs: Disabled
+			Tiebreaker After Match Time Elapsed: 180
+			Time To Capture: 7
+		}
+	}
+
+	heroes
+	{
+		Team 1
+		{
+			Ana
+			{
+				Damage Dealt: 90%
+				Healing Dealt: 80%
+				Health: 125%
+				Jump Vertical Speed: 135%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Generation - Combat Nano Boost: 115%
+				Ultimate Generation - Passive Nano Boost: 115%
+				Ultimate Generation Nano Boost: 115%
+			}
+
+			Ashe
+			{
+				Ammunition Clip Size Scalar: 50%
+				Coach Gun Cooldown Time: 150%
+				Coach Gun Knockback Scalar Enemy: 200%
+				Coach Gun Knockback Scalar Self: 150%
+				Damage Dealt: 75%
+				Dynamite Cooldown Time: 75%
+				Dynamite Fuse Time Scalar: 200%
+				Health: 125%
+				Jump Vertical Speed: 150%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Duration: 300%
+				Ultimate Generation - Combat B.O.B.: 110%
+				Ultimate Generation - Passive B.O.B.: 110%
+				Ultimate Generation B.O.B.: 110%
+			}
+
+			Baptiste
+			{
+				Jump Vertical Speed: 125%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Generation - Combat Amplification Matrix: 125%
+				Ultimate Generation - Passive Amplification Matrix: 125%
+				Ultimate Generation Amplification Matrix: 125%
+			}
+
+			Bastion
+			{
+				Ammunition Clip Size Scalar: 200%
+				Damage Dealt: 85%
+				Jump Vertical Speed: 150%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Duration: 200%
+			}
+
+			Brigitte
+			{
+				Health: 110%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Shield Bash: Off
+				Whip Shot Cooldown Time: 500%
+				Whip Shot Knockback Scalar: 300%
+			}
+
+			D.Va
+			{
+				Boosters: Off
+				Damage Dealt: 125%
+				Defense Matrix: Off
+				Jump Vertical Speed: 135%
+				Micro Missiles: Off
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Spawn With Ultimate Ready: On
+				Ultimate Generation - Combat Self-Destruct: 50%
+				Ultimate Generation - Passive Self-Destruct: 50%
+				Ultimate Generation Self-Destruct: 50%
+			}
+
+			Doomfist
+			{
+				Damage Dealt: 80%
+				Health: 80%
+				Jump Vertical Speed: 130%
+				Meteor Strike Knockback Scalar: 300%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Rising Uppercut Cooldown Time: 400%
+				Rising Uppercut Knockback Scalar: 150%
+				Rocket Punch Cooldown Time: 200%
+				Rocket Punch Knockback Scalar: 125%
+				Seismic Slam Cooldown Time: 150%
+				Ultimate Duration: 150%
+			}
+
+			Echo
+			{
+				Damage Dealt: 80%
+				Flight Cooldown Time: 125%
+				Focusing Beam Cooldown Time: 200%
+				Glide: Off
+				Health: 125%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Sticky Bombs Cooldown Time: 50%
+				Ultimate Generation - Combat Duplicate: 0%
+				Ultimate Generation - Passive Duplicate: 0%
+				Ultimate Generation Duplicate: 10%
+			}
+
+			Genji
+			{
+				Damage Dealt: 90%
+				Jump Vertical Speed: 115%
+				Movement Gravity: 85%
+				Movement Speed: 105%
+				Swift Strike Cooldown Time: 200%
+				Ultimate Duration: 25%
+				Ultimate Generation - Combat Dragonblade: 150%
+				Ultimate Generation - Passive Dragonblade: 150%
+				Ultimate Generation Dragonblade: 150%
+			}
+
+			Hanzo
+			{
+				Damage Dealt: 90%
+				Health: 125%
+				Jump Vertical Speed: 125%
+				Lunge Cooldown Time: 200%
+				Lunge Distance Scalar: 250%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				Storm Arrows Quantity: 12
+				Ultimate Generation - Combat Dragonstrike: 133%
+				Ultimate Generation - Passive Dragonstrike: 125%
+				Ultimate Generation Dragonstrike: 133%
+			}
+
+			Junkrat
+			{
+				Damage Dealt: 75%
+				Frag Launcher Knockback Scalar: 150%
+				Infinite Ultimate Duration: On
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				No Ammunition Requirement: On
+				Ultimate Generation - Combat RIP-Tire: 125%
+				Ultimate Generation - Passive RIP-Tire: 125%
+				Ultimate Generation RIP-Tire: 125%
+			}
+
+			Lúcio
+			{
+				Healing Dealt: 50%
+				Movement Gravity: 80%
+				Soundwave Cooldown Time: 500%
+				Soundwave Knockback Scalar: 300%
+				Ultimate Generation - Combat Sound Barrier: 0%
+				Ultimate Generation - Passive Sound Barrier: 0%
+				Ultimate Generation Sound Barrier: 10%
+			}
+
+			McCree
+			{
+				Combat Roll Cooldown Time: 50%
+				Damage Dealt: 75%
+				Health: 125%
+				Jump Vertical Speed: 150%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Generation - Combat Deadeye: 130%
+				Ultimate Generation - Passive Deadeye: 130%
+				Ultimate Generation Deadeye: 130%
+			}
+
+			Mei
+			{
+				Blizzard Freeze Minimum: 15%
+				Blizzard Freeze Rate Scalar: 250%
+				Healing Dealt: 75%
+				Ice Wall Cooldown Time: 125%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 120%
+				Ultimate Generation - Combat Blizzard: 125%
+				Ultimate Generation - Passive Blizzard: 80%
+				Ultimate Generation Blizzard: 125%
+				Weapon Freeze Duration Scalar: 130%
+				Weapon Freeze Minimum: 15%
+				Weapon Freeze Rate Scalar: 40%
+			}
+
+			Mercy
+			{
+				Jump Vertical Speed: 140%
+				Movement Gravity: 80%
+				Movement Speed: 140%
+				Projectile Speed: 500%
+				Resurrect Cooldown Time: 0%
+				Ultimate Generation - Combat Valkyrie: 130%
+				Ultimate Generation - Passive Valkyrie: 130%
+				Ultimate Generation Valkyrie: 130%
+			}
+
+			Moira
+			{
+				Biotic Orb Max Damage Scalar: 200%
+				Biotic Orb Max Healing Scalar: 150%
+				Damage Dealt: 75%
+				Fade Cooldown Time: 130%
+				Healing Dealt: 90%
+				Health: 125%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Ultimate Generation - Combat Coalescence: 0%
+				Ultimate Generation - Passive Coalescence: 0%
+				Ultimate Generation Coalescence: 10%
+			}
+
+			Orisa
+			{
+				Ammunition Clip Size Scalar: 200%
+				Damage Dealt: 80%
+				Fortify Cooldown Time: 75%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Projectile Gravity: 125%
+				Projectile Speed: 125%
+				Protective Barrier Cooldown Time: 125%
+				Ultimate Generation - Combat Supercharger: 125%
+				Ultimate Generation - Passive Supercharger: 125%
+				Ultimate Generation Supercharger: 125%
+			}
+
+			Pharah
+			{
+				Concussive Blast Cooldown Time: 150%
+				Concussive Blast Knockback Scalar: 300%
+				Damage Dealt: 75%
+				Hover Jets Maximum Time: 60%
+				Hover Jets Recharge Rate: 20%
+				Hover Jets Vertical Speed Scalar: 150%
+				Jump Jet Acceleration Scalar: 70%
+				Jump Jet Cooldown Time: 50%
+				Jump Vertical Speed: 125%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Projectile Speed: 200%
+				Rocket Launcher Knockback Scalar: 225%
+				Ultimate Generation - Combat Barrage: 131%
+				Ultimate Generation - Passive Barrage: 131%
+				Ultimate Generation Barrage: 131%
+			}
+
+			Reaper
+			{
+				Damage Dealt: 80%
+				Healing Dealt: 120%
+				Jump Vertical Speed: 125%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				Shadow Step Cooldown Time: 200%
+				Ultimate Generation - Combat Death Blossom: 150%
+				Ultimate Generation - Passive Death Blossom: 150%
+				Ultimate Generation Death Blossom: 150%
+			}
+
+			Roadhog
+			{
+				Chain Hook Cooldown Time: 150%
+				Damage Dealt: 90%
+				Healing Dealt: 80%
+				Healing Received: 120%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Take a Breather Cooldown Time: 150%
+				Ultimate Generation - Combat Whole Hog: 120%
+				Ultimate Generation - Passive Whole Hog: 120%
+				Ultimate Generation Whole Hog: 120%
+				Whole Hog Knockback Scalar: 300%
+			}
+
+			Soldier: 76
+			{
+				Biotic Field Cooldown Time: 50%
+				Damage Dealt: 90%
+				Healing Dealt: 60%
+				Helix Rockets Knockback Scalar: 200%
+				Jump Vertical Speed: 135%
+				Movement Gravity: 80%
+				Movement Speed: 110%
+				Ultimate Generation - Combat Tactical Visor: 130%
+				Ultimate Generation - Passive Tactical Visor: 130%
+				Ultimate Generation Tactical Visor: 130%
+			}
+
+			Sombra
+			{
+				Damage Dealt: 90%
+				Hack Cooldown Time: 250%
+				Jump Vertical Speed: 140%
+				Movement Gravity: 80%
+				Movement Speed: 115%
+				Stealth Cooldown Time: 0%
+				Ultimate Generation - Combat EMP: 115%
+				Ultimate Generation - Passive EMP: 115%
+				Ultimate Generation EMP: 115%
+			}
+
+			Symmetra
+			{
+				Damage Dealt: 115%
+				Health: 125%
+				Jump Vertical Speed: 125%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				Projectile Speed: 200%
+				Teleporter Cooldown Time: 150%
+				Ultimate Generation - Combat Photon Barrier: 150%
+				Ultimate Generation - Passive Photon Barrier: 150%
+				Ultimate Generation Photon Barrier: 150%
+			}
+
+			Torbjörn
+			{
+				Damage Dealt: 70%
+				Infinite Ultimate Duration: On
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				Overload Duration Scalar: 200%
+				Ultimate Generation - Combat Molten Core: 130%
+				Ultimate Generation - Passive Molten Core: 130%
+				Ultimate Generation Molten Core: 130%
+			}
+
+			Tracer
+			{
+				Ammunition Clip Size Scalar: 150%
+				Blink Cooldown Time: 125%
+				Damage Dealt: 80%
+				Jump Vertical Speed: 130%
+				Movement Gravity: 80%
+				Movement Speed: 105%
+				Projectile Gravity: 0%
+				Projectile Speed: 20%
+				Recall Cooldown Time: 200%
+				Ultimate Generation - Combat Pulse Bomb: 131%
+				Ultimate Generation - Passive Pulse Bomb: 131%
+				Ultimate Generation Pulse Bomb: 131%
+			}
+
+			Winston
+			{
+				Damage Dealt: 115%
+				Jump Pack Cooldown Time: 200%
+				Jump Vertical Speed: 125%
+				Movement Gravity: 80%
+				Movement Speed: 125%
+				No Ammunition Requirement: On
+				Ultimate Duration: 200%
+				Ultimate Generation - Combat Primal Rage: 115%
+				Ultimate Generation - Passive Primal Rage: 115%
+				Ultimate Generation Primal Rage: 115%
+			}
+
+			Zarya
+			{
+				Ammunition Clip Size Scalar: 200%
+				Damage Dealt: 90%
+				Health: 75%
+				Jump Vertical Speed: 135%
+				Movement Gravity: 90%
+				Movement Speed: 120%
+				Particle Barrier: Off
+				Projected Barrier: Off
+				Ultimate Generation - Combat Graviton Surge: 125%
+				Ultimate Generation - Passive Graviton Surge: 125%
+				Ultimate Generation Graviton Surge: 125%
+			}
+
+			Zenyatta
+			{
+				Ammunition Clip Size Scalar: 50%
+				Damage Dealt: 80%
+				Jump Vertical Speed: 160%
+				Movement Gravity: 80%
+				Movement Speed: 130%
+				Orb of Discord: Off
+				Ultimate Generation - Combat Transcendence: 125%
+				Ultimate Generation - Passive Transcendence: 125%
+				Ultimate Generation Transcendence: 125%
+			}
+
+			disabled heroes
+			{
+				Reinhardt
+				Sigma
+				Wrecking Ball
+			}
+		}
+
+		Team 2
+		{
+			Echo
+			{
+				Damage Dealt: 130%
+				Damage Received: 50%
+				Flight Cooldown Time: 50%
+				Focusing Beam Cooldown Time: 300%
+				Healing Received: 10%
+				Health: 500%
+				Jump Vertical Speed: 150%
+				Movement Gravity: 80%
+				Movement Speed: 140%
+				Projectile Speed: 200%
+				Quick Melee: Off
+				Sticky Bombs Cooldown Time: 75%
+				Ultimate Generation - Combat Duplicate: 0%
+				Ultimate Generation - Passive Duplicate: 0%
+				Ultimate Generation Duplicate: 10%
+			}
+
+			Reinhardt
+			{
+				Barrier Field Cooldown Time: 0%
+				Barrier Field Recharge Rate: 0%
+				Charge Cooldown Time: 50%
+				Charge Knockback Scalar: 200%
+				Damage Dealt: 200%
+				Damage Received: 50%
+				Fire Strike Cooldown Time: 50%
+				Healing Received: 10%
+				Health: 500%
+				Jump Vertical Speed: 150%
+				Movement Gravity: 80%
+				Movement Speed: 150%
+				Projectile Speed: 180%
+				Rocket Hammer Knockback Scalar: 250%
+				Ultimate Generation - Combat Earthshatter: 105%
+				Ultimate Generation - Passive Earthshatter: 105%
+				Ultimate Generation Earthshatter: 105%
+			}
+
+			Sigma
+			{
+				Accretion Cooldown Time: 50%
+				Accretion Knockback Scalar: 300%
+				Damage Dealt: 150%
+				Damage Received: 50%
+				Healing Received: 10%
+				Health: 500%
+				Jump Vertical Speed: 167%
+				Kinetic Grasp Cooldown Time: 150%
+				Movement Gravity: 80%
+				Movement Speed: 155%
+				Projectile Gravity: 80%
+				Projectile Speed: 180%
+				Quick Melee: Off
+				Ultimate Generation - Combat Gravitic Flux: 130%
+				Ultimate Generation - Passive Gravitic Flux: 130%
+				Ultimate Generation Gravitic Flux: 130%
+			}
+
+			Wrecking Ball
+			{
+				Ammunition Clip Size Scalar: 150%
+				Damage Dealt: 150%
+				Damage Received: 65%
+				Grappling Claw Cooldown Time: 80%
+				Grappling Claw Knockback Scalar: 400%
+				Healing Received: 10%
+				Health: 500%
+				Infinite Ultimate Duration: On
+				Jump Vertical Speed: 160%
+				Minefield Knockback Scalar: 400%
+				Movement Gravity: 80%
+				Movement Speed: 150%
+				Piledriver Cooldown Time: 75%
+				Quick Melee: Off
+				Ultimate Generation - Combat Minefield: 125%
+				Ultimate Generation - Passive Minefield: 125%
+				Ultimate Generation Minefield: 125%
+			}
+
+			enabled heroes
+			{
+				Echo
+				Reinhardt
+				Sigma
+				Wrecking Ball
+			}
+		}
+	}
+}
+
+variables
+{
+	player:
+		24: Krystalite_Ability2_Storage
+		25: Krystalite_Ability2_Cooldown
+		26: Brigitte_CCE_Hud_Storage
+		27: Brigitte_CCE_Charge
+		28: Brigitte_CCE_VFX_Beam
+		29: Brigitte_CCE_VFX_Aura
+		30: Brigitte_CCE_Switch
+		31: MBB_Dead_Soul_Sparkles
+		32: MBB_Dead_Soul_Orb
+		33: DVA_BunnyHop_Cooldown
+		34: DVA_FieldMedic_Cooldown
+		35: DVA_Ability1_UI
+		36: DVA_Ability2_UI
+		37: Reinhardt_Charge_Switch
+		38: Onyx_Ability1_Hud_Storage
+		39: Onyx_Ability2_Hud_Storage
+		40: Onyx_Ability3_Hud_Storage
+		41: Onyx_Ability1_Cooldown
+		42: Onyx_Ability2_Cooldown
+		43: Onyx_Ability3_Cooldown
+		44: Requiem_Ability2_Storage
+		45: Requiem_Ability1_Storage
+		46: Requiem_Ability2_Cooldown
+		47: Requiem_Ability2_Charges
+		48: Requiem_Ability2_Effect_Storage
+		49: Requiem_Ability1_Cooldown
+		50: Roadhog_Chainhook_Uses
+		51: Roadhog_Chainhook_Hud_Storage
+		52: Soul_Mend_Storage
+		53: Soul_Mend_Cooldown
+		54: Resurrect_Switch
+		55: Air_Burst_Storage
+		56: Air_Burst_Charges
+		57: Air_Burst_Cooldown
+}
+
+subroutines
+{
+	8: Ability_1_Manager
+	9: Ability_2_Manager
+	10: Requiem_Ability2_Manager
+	11: Sould_Mend_Cooldown_Manager
+}
+
+rule("Discord.gg/gG8U7A5 Join our discord <3")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+
+	actions
+	{
+		Disable Inspector Recording;
+	}
+}
+
+rule("0----------| Master FIles |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+
+	actions
+	{
+		Disable Death Spectate Target HUD(All Players(All Teams));
+		Enable Death Spectate All Players(All Players(All Teams));
+	}
+}
+
+rule("Tell the player to get off point")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Is On Objective(Event Player) == True;
+	}
+
+	actions
+	{
+		Big Message(Event Player, String("{0} {1}", Event Player, Custom String("Don't Capture the Point", Null, Null, Null), String("",
+			Null, Null, Null)));
+	}
+}
+
+rule("Kill the player if they are on the point")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Point Capture Percentage >= 99;
+		Is On Objective(Event Player) == True;
+	}
+
+	actions
+	{
+		Abort If Condition Is False;
+		Kill(Event Player, Null);
+	}
+}
+
+rule("Is in assemble phase, set time to (14)")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+
+	conditions
+	{
+		Is Assembling Heroes == True;
+	}
+
+	actions
+	{
+		Set Match Time(14);
+	}
+}
+
+rule("Display Boss Health")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 2;
+		All;
+	}
+
+	conditions
+	{
+		Is Game In Progress == True;
+	}
+
+	actions
+	{
+		Create HUD Text(All Players(Team 1), Hero Icon String(Hero Of(Event Player)), String("{0} {1}", Event Player, Custom String(
+			"Health", Null, Null, Null), Null), String("{0} / {1}", Health(Event Player), Max Health(Event Player), Null), Right, -1,
+			Sky Blue, White, Green, Visible To and String, Default Visibility);
+	}
+}
+
+rule("Destrory all Previous rounds Effects | Huds | Variables etc")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Is Assembling Heroes == True;
+	}
+
+	actions
+	{
+		Destroy All Effects;
+		Destroy All HUD Text;
+		Destroy All Icons;
+		Destroy All In-World Text;
+		Set Healing Received(All Players(All Teams), 100);
+		Set Healing Received(All Players(All Teams), 100);
+		Clear Status(All Players(All Teams), Hacked);
+		Clear Status(All Players(All Teams), Burning);
+		Clear Status(All Players(All Teams), Knocked Down);
+		Clear Status(All Players(All Teams), Asleep);
+		Clear Status(All Players(All Teams), Frozen);
+		Clear Status(All Players(All Teams), Unkillable);
+		Clear Status(All Players(All Teams), Invincible);
+		Clear Status(All Players(All Teams), Phased Out);
+		Clear Status(All Players(All Teams), Rooted);
+		Clear Status(All Players(All Teams), Stunned);
+		Set Gravity(All Players(All Teams), 100);
+		Stop Camera(All Players(All Teams));
+		Set Max Health(All Players(All Teams), 100);
+		Set Ability 1 Enabled(All Players(All Teams), True);
+		Set Ability 2 Enabled(All Players(All Teams), True);
+		Allow Button(Event Player, Jump);
+		Allow Button(Event Player, Primary Fire);
+		Allow Button(Event Player, Secondary Fire);
+		Set Healing Dealt(All Players(All Teams), 100);
+		Allow Button(Event Player, Ability 1);
+		Allow Button(Event Player, Ability 2);
+	}
+}
+
+rule("0----------| Game FIles |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Soul Effects - Display dead user's souls if the Eventplayer dies")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Is Dead(Event Player) == True;
+		Is Game In Progress == True;
+	}
+
+	actions
+	{
+		Create Effect(All Players(All Teams), Orb, Sky Blue, Event Player, 0.100, Visible To Position and Radius);
+		Set Player Variable(Event Player, MBB_Dead_Soul_Orb, Last Created Entity);
+		Create Effect(All Players(All Teams), Sparkles, Sky Blue, Event Player, 1, Visible To Position and Radius);
+		Set Player Variable(Event Player, MBB_Dead_Soul_Sparkles, Last Created Entity);
+	}
+}
+
+rule("Soul Effects - Destroy soul effect if the Eventplayer is alive")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Is Alive(Event Player) == True;
+		Is Game In Progress == True;
+	}
+
+	actions
+	{
+		Destroy Effect(Player Variable(Event Player, MBB_Dead_Soul_Sparkles));
+		Destroy Effect(Player Variable(Event Player, MBB_Dead_Soul_Orb));
+	}
+}
+
+rule("0----------( Camera Config )----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Camera - Start")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, A, 0);
+	}
+}
+
+rule("Camera - Button")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Interact) == True;
+		Is Button Held(Event Player, Reload) == True;
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, A, Add(Player Variable(Event Player, A), 1));
+	}
+}
+
+rule("Camera - Disable Thirdperson")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 0;
+	}
+
+	actions
+	{
+		Stop Camera(Event Player);
+	}
+}
+
+rule("Camera - Enable Thirdperson (Non Unique)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 1;
+		Hero Of(Event Player) != Hero(Pharah);
+		Hero Of(Event Player) != Hero(Bastion);
+		Hero Of(Event Player) != Hero(Roadhog);
+		Hero Of(Event Player) != Hero(Orisa);
+	}
+
+	actions
+	{
+		Start Camera(Event Player, Ray Cast Hit Position(Event Player, Add(Add(Add(Event Player, World Vector Of(Vector(-0.800, 0, 0.300),
+			Event Player, Rotation)), Multiply(Up, 1.500)), Multiply(Facing Direction Of(Event Player), -2)), Null, Event Player, False),
+			Add(Event Player, Multiply(Facing Direction Of(Event Player), 1000)), 40);
+		Set Player Variable(Event Player, K, Last Text ID);
+	}
+}
+
+rule("Camera - Enable Thirdperson (Pharah)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Pharah;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 1;
+		Hero Of(Event Player) == Hero(Pharah);
+	}
+
+	actions
+	{
+		Start Camera(Event Player, Ray Cast Hit Position(Event Player, Add(Add(Add(Event Player, World Vector Of(Vector(-0.800, 0, -1.300),
+			Event Player, Rotation)), Multiply(Up, 1.500)), Multiply(Facing Direction Of(Event Player), -2)), Null, Event Player, False),
+			Add(Event Player, Multiply(Facing Direction Of(Event Player), 1000)), 40);
+		Set Player Variable(Event Player, K, Last Text ID);
+	}
+}
+
+rule("Camera - Enable Thirdperson (Bastion)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Bastion;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 1;
+		Hero Of(Event Player) == Hero(Bastion);
+	}
+
+	actions
+	{
+		Start Camera(Event Player, Ray Cast Hit Position(Event Player, Add(Add(Add(Event Player, World Vector Of(Vector(-1.500, 0.300,
+			-0.800), Event Player, Rotation)), Multiply(Up, 1.500)), Multiply(Facing Direction Of(Event Player), -2)), Null, Event Player,
+			False), Add(Event Player, Multiply(Facing Direction Of(Event Player), 1000)), 40);
+		Set Player Variable(Event Player, K, Last Text ID);
+	}
+}
+
+rule("Camera - Enable Thirdperson (Roadhog)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 1;
+		Hero Of(Event Player) == Hero(Roadhog);
+	}
+
+	actions
+	{
+		Start Camera(Event Player, Ray Cast Hit Position(Event Player, Add(Add(Add(Event Player, World Vector Of(Vector(-1.500, 0.300,
+			-0.800), Event Player, Rotation)), Multiply(Up, 1.500)), Multiply(Facing Direction Of(Event Player), -2)), Null, Event Player,
+			False), Add(Event Player, Multiply(Facing Direction Of(Event Player), 1000)), 40);
+		Set Player Variable(Event Player, K, Last Text ID);
+	}
+}
+
+rule("Camera - Enable Thirdperson (Orisa)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Orisa;
+	}
+
+	conditions
+	{
+		Modulo(Player Variable(Event Player, A), 2) == 1;
+		Hero Of(Event Player) == Hero(Orisa);
+	}
+
+	actions
+	{
+		Start Camera(Event Player, Ray Cast Hit Position(Event Player, Add(Add(Add(Event Player, World Vector Of(Vector(-1.200, 0.300,
+			-0.500), Event Player, Rotation)), Multiply(Up, 1.500)), Multiply(Facing Direction Of(Event Player), -2)), Null, Event Player,
+			False), Add(Event Player, Multiply(Facing Direction Of(Event Player), 1000)), 40);
+		Set Player Variable(Event Player, K, Last Text ID);
+	}
+}
+
+rule("0----------| Map Fixes |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Iios Lighthouse Perch House Fix")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Distance Between(Event Player, Vector(311.538, -18.943, -99.543)) <= 1.600;
+		Current Map == Map(Ilios Lighthouse);
+	}
+
+	actions
+	{
+		Set Status(Event Player, Event Player, Stunned, 1.200);
+		Teleport(Event Player, Vector(302.903, -22.712, -97.774));
+	}
+}
+
+rule("Iios Lighthouse Rock Fix")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Distance Between(Event Player, Vector(278.995, -15.946, -66.140)) <= 1.600;
+		Current Map == Map(Ilios Lighthouse);
+	}
+
+	actions
+	{
+		Set Status(Event Player, Event Player, Stunned, 1.200);
+		Teleport(Event Player, Vector(275.070, -15.518, -68.456));
+	}
+}
+
+rule("Iios Lighthouse Tower Fix")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Distance Between(Event Player, Vector(358.800, -9, -52)) <= 5;
+		Current Map == Map(Ilios Lighthouse);
+	}
+
+	actions
+	{
+		Set Status(Event Player, Event Player, Stunned, 0.200);
+		Teleport(Event Player, Vector(352.824, -11, -49.254));
+	}
+}
+
+rule("0----------| Hero Files |-----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("0----------| DVA Config |----------0")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Has Spawned(Event Player) == True;
+	}
+
+	actions
+	{
+		Heal(Event Player, Null, 100000);
+	}
+}
+
+rule("If on hero DVA, create hud variables and units")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(D.Va);
+	}
+
+	actions
+	{
+		Set Max Health(Event Player, 166.007);
+		Set Projectile Speed(Event Player, 300);
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Bunny Hop Cooldown", Null, Null, Null),
+			Player Variable(Event Player, DVA_BunnyHop_Cooldown), Left, 0, Sky Blue, White, White, Visible To and String,
+			Default Visibility);
+		Set Player Variable(Event Player, DVA_Ability1_UI, Last Text ID);
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Field Medic Cooldown", Null, Null, Null),
+			Player Variable(Event Player, DVA_FieldMedic_Cooldown), Left, 1, Sky Blue, White, White, Visible To and String,
+			Default Visibility);
+		Set Player Variable(Event Player, DVA_Ability2_UI, Last Text ID);
+		Disallow Button(Event Player, Ultimate);
+		Disallow Button(Event Player, Ability 1);
+		Disallow Button(Event Player, Ability 2);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Damage", Null, Null, Null), Icon String(Bolt),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("If not on hero DVA, destroy hud variables and units")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(D.Va);
+	}
+
+	actions
+	{
+		Set Max Health(Event Player, 100);
+		Set Projectile Speed(Event Player, 100);
+		Destroy HUD Text(Player Variable(Event Player, DVA_Ability1_UI));
+		Destroy HUD Text(Player Variable(Event Player, DVA_Ability2_UI));
+		Allow Button(Event Player, Ultimate);
+		Allow Button(Event Player, Ability 1);
+		Allow Button(Event Player, Ability 2);
+	}
+}
+
+rule("Ability 1: Bunny Hop")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 1) == True;
+		Player Variable(Event Player, DVA_BunnyHop_Cooldown) <= 0;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Rooted), Or(Has Status(Event Player, Stunned), Or(Is Dead(Event Player),
+			Is In Air(Event Player)))))))) == False;
+	}
+
+	actions
+	{
+		Start Holding Button(Event Player, Crouch);
+		Wait(0.600, Ignore Condition);
+		Stop Holding Button(Event Player, Crouch);
+		Abort If(Is In Air(Event Player));
+		Set Status(Event Player, Event Player, Phased Out, 0.500);
+		Play Effect(All Players(Team Of(Event Player)), Ring Explosion, Purple, Event Player, 4);
+		Play Effect(All Players(Opposite Team Of(Team Of(Event Player))), Ring Explosion, Red, Event Player, 4);
+		Play Effect(All Players(Opposite Team Of(Team Of(Event Player))), Explosion Sound, White, Event Player, 50);
+		Play Effect(All Players(Team Of(Event Player)), Buff Explosion Sound, White, Event Player, 50);
+		Apply Impulse(Event Player, Up, 16, To World, Incorporate Contrary Motion);
+		Set Player Variable(Event Player, DVA_BunnyHop_Cooldown, 16);
+		Wait(1.800, Ignore Condition);
+		Chase Player Variable At Rate(Event Player, DVA_BunnyHop_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("Ability 1: Bunny Hop CD Config")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, DVA_BunnyHop_Cooldown) <= 0;
+	}
+
+	actions
+	{
+		Stop Chasing Player Variable(Event Player, DVA_BunnyHop_Cooldown);
+		Set Player Variable(Event Player, DVA_BunnyHop_Cooldown, 0);
+	}
+}
+
+rule("Abiltiy 2: Field Medic")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 2) == True;
+		Player Variable(Event Player, DVA_FieldMedic_Cooldown) <= 0;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Is Dead(Event Player)))))) == False;
+	}
+
+	actions
+	{
+		Play Effect(All Players(Team Of(Event Player)), Good Explosion, Yellow, Event Player, 1);
+		Play Effect(All Players(Opposite Team Of(Team Of(Event Player))), Good Explosion, Red, Event Player, 1);
+		Play Effect(Event Player, Buff Impact Sound, White, Event Player, 100);
+		Clear Status(Event Player, Burning);
+		Play Effect(Players Within Radius(Event Player, 14, Opposite Team Of(Team Of(Event Player)), Off), Debuff Impact Sound, White,
+			Event Player, 100);
+		Start Heal Over Time(Event Player, Event Player, 2, 50);
+		Set Player Variable(Event Player, DVA_FieldMedic_Cooldown, 12);
+		Chase Player Variable At Rate(Event Player, DVA_FieldMedic_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("Ultimate: Peacebringer")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Ultimate Charge Percent(Event Player) == 100;
+		Is Button Held(Event Player, Ultimate) == True;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Is Dead(Event Player)))))) == False;
+	}
+
+	actions
+	{
+		Play Effect(All Players(All Teams), Ring Explosion, White, Event Player, 128);
+		Set Status(Players Within Radius(Event Player, 128, Opposite Team Of(Team Of(Event Player)), Surfaces And Enemy Barriers),
+			Event Player, Burning, 10);
+		Start Damage Over Time(Players Within Radius(Event Player, 128, Opposite Team Of(Team Of(Event Player)),
+			Surfaces And Enemy Barriers), Event Player, 10, 100);
+		Start Damage Over Time(Players Within Radius(Event Player, 128, Team Of(Event Player), Surfaces And Enemy Barriers), Event Player,
+			10, 60);
+		Set Status(Players Within Radius(Event Player, 128, Opposite Team Of(Team Of(Event Player)), Surfaces), Event Player, Knocked Down,
+			1.200);
+		Set Ultimate Charge(Event Player, 0);
+		Set Status(Players Within Radius(Event Player, 128, Team Of(Event Player), Surfaces And Enemy Barriers), Event Player, Burning,
+			10);
+		Set Status(Event Player, Event Player, Burning, 10);
+		Wait(0.200, Ignore Condition);
+		Kill(Event Player, Event Player);
+		Play Effect(All Players(All Teams), Ring Explosion, Orange, Event Player, 128);
+		Wait(0.200, Ignore Condition);
+		Play Effect(All Players(All Teams), Ring Explosion, Red, Event Player, 128);
+		Play Effect(All Players(All Teams), Bad Explosion, Red, Event Player, 128);
+	}
+}
+
+rule("If spawned, delete ultimate charge")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Is Alive(Event Player) == True;
+	}
+
+	actions
+	{
+		Set Ultimate Charge(Event Player, 0);
+	}
+}
+
+rule("if has spawned from spawn room, heal the event player to max health")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		D.Va;
+	}
+
+	conditions
+	{
+		Has Spawned(Event Player) == True;
+	}
+
+	actions
+	{
+		Wait(0.500, Ignore Condition);
+		Heal(Event Player, Null, 150);
+	}
+}
+
+rule("0----------| Tracer Config |----------0")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+}
+
+rule("If on hero, increase max health to 250")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Tracer;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Tracer);
+	}
+
+	actions
+	{
+		Set Max Health(Event Player, 166.600);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Damage", Null, Null, Null), Icon String(Bolt),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("If not on hero, set max health to normal")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Tracer);
+	}
+
+	actions
+	{
+		Set Max Health(Event Player, 100);
+	}
+}
+
+rule("If the Eventplayer has spawned, heal the Eventplayer to their current HP")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Tracer;
+	}
+
+	conditions
+	{
+		Has Spawned(Event Player) == True;
+	}
+
+	actions
+	{
+		Wait(0.500, Ignore Condition);
+		Heal(Event Player, Null, 150);
+	}
+}
+
+rule("0----------| Mccree Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If using Ultimate increase movement speed to (400%)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		McCree;
+	}
+
+	conditions
+	{
+		Is Using Ultimate(Event Player) == True;
+	}
+
+	actions
+	{
+		Set Move Speed(Event Player, 400);
+	}
+}
+
+rule("If not using Ultimate decrease movement speed to (100%)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		McCree;
+	}
+
+	conditions
+	{
+		Is Using Ultimate(Event Player) == False;
+	}
+
+	actions
+	{
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+rule("0----------| Baptiste Config |----------0")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Baptiste;
+	}
+}
+
+rule("If on hero, disable Crouch")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Baptiste;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Baptiste);
+	}
+
+	actions
+	{
+		Disallow Button(Event Player, Crouch);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Support", Null, Null, Null), Icon String(Heart),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("If not on hero, enable Crouch")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Baptiste);
+	}
+
+	actions
+	{
+		Allow Button(Event Player, Crouch);
+	}
+}
+
+rule("0----------| Onyx Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("if Eventplayer is on Onyx, set hud text and variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zarya;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Zarya);
+	}
+
+	actions
+	{
+		"Increases Movement speed of herself and her allies within 25 meters of herself up to 150%"
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Calvary Charge", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Onyx_Ability1_Cooldown), Null), Left,
+			-2, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Onyx_Ability1_Hud_Storage, Last Text ID);
+		"Sooth your allies and reduce their damage taken by 25% for 10 seconds"
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Mandala", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Onyx_Ability2_Cooldown), Null), Right,
+			-3, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Onyx_Ability2_Hud_Storage, Last Text ID);
+		"Refresh all of your ability cooldowns to 0"
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Refresh", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Onyx_Ability3_Cooldown), Null), Right,
+			-2, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Onyx_Ability3_Hud_Storage, Last Text ID);
+		Disallow Button(Event Player, Ability 1);
+		Disallow Button(Event Player, Ability 2);
+		Disallow Button(Event Player, Ultimate);
+		Disallow Button(Event Player, Reload);
+		Set Player Variable(Event Player, Onyx_Ability1_Cooldown, 0);
+		Disallow Button(Event Player, Secondary Fire);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Tank", Null, Null, Null), Icon String(Diamond),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if Eventplayer is not on Onyx, Destroy hud text and variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Zarya);
+	}
+
+	actions
+	{
+		Destroy HUD Text(Player Variable(Event Player, Onyx_Ability1_Hud_Storage));
+		Destroy HUD Text(Player Variable(Event Player, Onyx_Ability2_Hud_Storage));
+		Destroy HUD Text(Player Variable(Event Player, Onyx_Ability3_Hud_Storage));
+		Allow Button(Event Player, Ultimate);
+		Allow Button(Event Player, Reload);
+		Allow Button(Event Player, Ability 1);
+		Allow Button(Event Player, Ability 2);
+		Set Healing Dealt(Event Player, 100);
+		Allow Button(Event Player, Secondary Fire);
+	}
+}
+
+rule("0----------| Onyx Ability 1 Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Calvary Charge is pressed, start Ability and send Work to Subroutine (Ability 1)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zarya;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Zarya);
+		Is Button Held(Event Player, Ability 1) == True;
+		Player Variable(Event Player, Onyx_Ability1_Cooldown) == 0;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Or(Is Dead(Event Player), Is Communicating Any Emote(
+			Event Player))))))) == False;
+	}
+
+	actions
+	{
+		"Play's a Effect to let the Players know the Abiltiy is active"
+		Play Effect(All Players(All Teams), Ring Explosion, Orange, Event Player, 50);
+		"Play's a sound to let the Players know the Abiltiy is active"
+		Play Effect(All Players(All Teams), Debuff Impact Sound, White, Event Player, 50);
+		Set Move Speed(Players Within Radius(Event Player, 50, Team Of(Event Player), Surfaces), 275);
+		Set Player Variable(Event Player, Onyx_Ability1_Cooldown, 18);
+		"Calls the Subroutine to deal with Cooldowns to reduce server lag"
+		Call Subroutine(Ability_1_Manager);
+		Wait(0.100, Ignore Condition);
+		Stop Chasing Player Variable(Event Player, Onyx_Ability1_Cooldown);
+	}
+}
+
+rule("Calvary Charge Subroutine Manager")
+{
+	event
+	{
+		Subroutine;
+		Ability_1_Manager;
+	}
+
+	actions
+	{
+		Wait(6, Ignore Condition);
+		Chase Player Variable At Rate(Event Player, Onyx_Ability1_Cooldown, 0, 1, Destination and Rate);
+		Set Move Speed(All Players(Team Of(Event Player)), 100);
+		Wait(17.900, Ignore Condition);
+	}
+}
+
+rule("0----------| Onyx Ability 2 Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Mandala is pressed, start Ability and send Work to Subroutine (Ability 2)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zarya;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Zarya);
+		Is Button Held(Event Player, Ability 2) == True;
+		Player Variable(Event Player, Onyx_Ability2_Cooldown) == 0;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Or(Is Dead(Event Player), Is Communicating Any Emote(
+			Event Player))))))) == False;
+	}
+
+	actions
+	{
+		Play Effect(All Players(All Teams), Ring Explosion, White, Event Player, 30);
+		Play Effect(All Players(All Teams), Debuff Impact Sound, White, Event Player, 30);
+		Set Damage Received(Players Within Radius(Event Player, 30, Team Of(Event Player), Surfaces), 50);
+		Set Player Variable(Event Player, Onyx_Ability2_Cooldown, 30);
+		Call Subroutine(Ability_2_Manager);
+		Wait(0.100, Ignore Condition);
+		Stop Chasing Player Variable(Event Player, Onyx_Ability2_Cooldown);
+	}
+}
+
+rule("Mandala Subroutine Manager")
+{
+	event
+	{
+		Subroutine;
+		Ability_2_Manager;
+	}
+
+	actions
+	{
+		Wait(9.900, Ignore Condition);
+		"Sets all damage edits back to normal for team of the Eventplayer"
+		Set Damage Received(All Players(Team Of(Event Player)), 100);
+		Chase Player Variable At Rate(Event Player, Onyx_Ability2_Cooldown, 0, 1, Destination and Rate);
+		Wait(29.900, Ignore Condition);
+	}
+}
+
+rule("0----------| Onyx Ability 3 Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Refresh is pressed, start Ability (Ability 3)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zarya;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Zarya);
+		Is Button Held(Event Player, Secondary Fire) == True;
+		Player Variable(Event Player, Onyx_Ability3_Cooldown) == 0;
+		Health(Event Player) > 200;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Or(Is Dead(Event Player), Is Communicating Any Emote(
+			Event Player))))))) == False;
+	}
+
+	actions
+	{
+		Disallow Button(Event Player, Primary Fire);
+		Disallow Button(Event Player, Melee);
+		Small Message(Event Player, Custom String("Refreshing Abilities", Null, Null, Null));
+		Wait(6, Ignore Condition);
+		Damage(Event Player, Null, 200);
+		Set Player Variable(Event Player, Onyx_Ability1_Cooldown, 0);
+		Set Player Variable(Event Player, Onyx_Ability2_Cooldown, 0);
+		Allow Button(Event Player, Primary Fire);
+		Allow Button(Event Player, Melee);
+		Set Player Variable(Event Player, Onyx_Ability3_Cooldown, 28);
+		Wait(0.100, Ignore Condition);
+		Call Subroutine(Sub0);
+		Stop Chasing Player Variable(Event Player, Onyx_Ability3_Cooldown);
+	}
+}
+
+rule("Refresh Cooldown Subroutine Manager")
+{
+	event
+	{
+		Subroutine;
+		Sub0;
+	}
+
+	actions
+	{
+		Chase Player Variable At Rate(Event Player, Onyx_Ability3_Cooldown, 0, 1, Destination and Rate);
+		Wait(28, Ignore Condition);
+	}
+}
+
+rule("0----------| Onyx Ultimate Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Unyielding is pressed, start Ultimate")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zarya;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ultimate) == True;
+		Ultimate Charge Percent(Event Player) == 100;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Or(Has Status(Event Player, Stunned), Or(Is Dead(Event Player), Is Communicating Any Emote(
+			Event Player))))))) == False;
+	}
+
+	actions
+	{
+		Play Effect(All Players(All Teams), Explosion Sound, White, Event Player, 75);
+		Apply Impulse(Players Within Radius(Event Player, 75, Team Of(Event Player), Surfaces And Enemy Barriers), Up, 24, To World,
+			Incorporate Contrary Motion);
+		Set Ultimate Charge(Event Player, 0);
+		Big Message(All Players(Team 1), String("{0} {1}", Hero Icon String(Hero(Zarya)), Custom String(
+			"Lá chắn của tôi sẽ giữ cho chúng ta an toàn", Null, Null, Null), Null));
+		Big Message(All Players(Team 2), String("{0} {1}", Hero Icon String(Hero(Zarya)), Custom String(
+			"Nhóm của tôi sẽ tồn tại chống lại bạn", Null, Null, Null), Null));
+		Wait(0.700, Ignore Condition);
+		Play Effect(All Players(All Teams), Ring Explosion Sound, White, Event Player, 100);
+		Apply Impulse(Players Within Radius(Event Player, 100, Team Of(Event Player), Surfaces And Enemy Barriers), Down, 18, To World,
+			Incorporate Contrary Motion);
+		Set Status(Players Within Radius(Event Player, 100, Team Of(Event Player), Surfaces And Enemy Barriers), Event Player, Invincible,
+			10);
+	}
+}
+
+rule("0----------| Requiem Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("if Eventplayer is on Requiem, set hud text and variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Widowmaker;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Widowmaker);
+	}
+
+	actions
+	{
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), String("{0} {1}", Custom String("CSD Cooldown:", Null, Null,
+			Null), Player Variable(Event Player, Requiem_Ability2_Cooldown), Null), String("{0} {1}", Custom String("Charges Remaining:",
+			Null, Null, Null), Player Variable(Event Player, Requiem_Ability2_Charges), Null), Right, -1, Sky Blue, White, White,
+			Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Requiem_Ability2_Storage, Last Text ID);
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Synthetic Leap", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Requiem_Ability1_Cooldown), Null), Left,
+			-1, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Requiem_Ability1_Storage, Last Text ID);
+		Disallow Button(Event Player, Ability 1);
+		Disallow Button(Event Player, Ability 2);
+		Set Player Variable(Event Player, Requiem_Ability2_Charges, 6);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Damage", Null, Null, Null), Icon String(Bolt),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if Eventplayer is not on Requiem, Destroy hud text and variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Widowmaker);
+	}
+
+	actions
+	{
+		Destroy HUD Text(Player Variable(Event Player, Requiem_Ability2_Storage));
+		Destroy HUD Text(Player Variable(Event Player, Requiem_Ability1_Storage));
+		Allow Button(Event Player, Ability 1);
+		Allow Button(Event Player, Ability 2);
+	}
+}
+
+rule("0----------| Requiem Ability 2 Config |----------0 (CSD - Crowd Search Down)")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Requiem Ability 2 is pressed, Create the Marking Effect | Send Cooldown to Subroutine")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 2) == True;
+		Player Variable(Event Player, Requiem_Ability2_Cooldown) == 0;
+		Player Variable(Event Player, Requiem_Ability2_Charges) > 0;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Burning), Or(Has Status(Event Player, Knocked Down), Or(
+			Has Status(Event Player, Asleep), Is Dead(Event Player))))) == False;
+		Hero Of(Event Player) == Hero(Widowmaker);
+		Number of Players(Team 2) > 0;
+	}
+
+	actions
+	{
+		Set Move Speed(Event Player, 50);
+		Wait(3, Ignore Condition);
+		Set Player Variable(Event Player, Requiem_Ability2_Cooldown, 10);
+		Set Move Speed(Event Player, 100);
+		Create Icon(All Players(Team Of(Event Player)), All Players(Opposite Team Of(Team Of(Event Player))), Eye, Visible To and Position,
+			Orange, False);
+		Set Player Variable(Event Player, Requiem_Ability2_Effect_Storage, Last Created Entity);
+		Modify Player Variable(Event Player, Requiem_Ability2_Charges, Subtract, 1);
+		Call Subroutine(Requiem_Ability2_Manager);
+	}
+}
+
+rule("Requiem_Ability2_Manager")
+{
+	event
+	{
+		Subroutine;
+		Requiem_Ability2_Manager;
+	}
+
+	actions
+	{
+		Wait(6.500, Ignore Condition);
+		Destroy Icon(Player Variable(Event Player, Requiem_Ability2_Effect_Storage));
+		Chase Player Variable At Rate(Event Player, Requiem_Ability2_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("If & When Ability 2 Variable reaches (0) stop chasing Variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Widowmaker;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Requiem_Ability2_Cooldown) == 0;
+		Hero Of(Event Player) == Hero(Widowmaker);
+	}
+
+	actions
+	{
+		Stop Chasing Player Variable(Event Player, Requiem_Ability2_Cooldown);
+	}
+}
+
+rule("If Ability 2 goes into the negatives, set Variable Charges to (0)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Widowmaker;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Requiem_Ability2_Charges) < 0;
+		Hero Of(Event Player) == Hero(Widowmaker);
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Requiem_Ability2_Charges, 0);
+	}
+}
+
+rule("0----------| Requiem Ability 2 Config |----------0 (Synthetic Leap)")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Stop Chasing Variable if Requiem's Ability 1 is (0)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Widowmaker;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Requiem_Ability1_Cooldown) == 20;
+	}
+}
+
+rule("If Requiem Ability 1 is pressed, Apply Impule and Play SFX/VFX (On Ground)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Widowmaker;
+	}
+
+	conditions
+	{
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Burning), Or(Has Status(Event Player, Knocked Down), Or(
+			Has Status(Event Player, Asleep), Or(Is In Air(Event Player), Is Dead(Event Player)))))) == False;
+		Is Button Held(Event Player, Ability 1) == True;
+		Hero Of(Event Player) == Hero(Widowmaker);
+		Player Variable(Event Player, Requiem_Ability1_Cooldown) == 0;
+	}
+
+	actions
+	{
+		Start Holding Button(Event Player, Crouch);
+		Wait(0.400, Ignore Condition);
+		Stop Holding Button(Event Player, Crouch);
+		Abort If(Is In Air(Event Player));
+		Play Effect(All Players(Team Of(Event Player)), Ring Explosion Sound, Orange, Event Player, 15);
+		Play Effect(All Players(Team Of(Event Player)), Ring Explosion, Orange, Event Player, 3);
+		Play Effect(All Players(Opposite Team Of(Team Of(Event Player))), Ring Explosion, Red, Event Player, 3);
+		Apply Impulse(Event Player, Up, 16, To World, Cancel Contrary Motion);
+		Wait(0.200, Ignore Condition);
+		Set Player Variable(Event Player, Requiem_Ability1_Cooldown, 16);
+		Wait(2, Ignore Condition);
+		Chase Player Variable At Rate(Event Player, Requiem_Ability1_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("0----------| Anchor - Roadhog Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If on hero set params and hud variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Roadhog);
+	}
+
+	actions
+	{
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Chainhook", Null, Null, Null), String(
+			"{0} {1}", Custom String("Uses Remaining", Null, Null, Null), Player Variable(Event Player, Roadhog_Chainhook_Uses), Null),
+			Left, -1, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Roadhog_Chainhook_Hud_Storage, Last Text ID);
+		disabled Set Max Health(Event Player, 66.600);
+		Set Player Variable(Event Player, Roadhog_Chainhook_Uses, 6);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Tank", Null, Null, Null), Icon String(Diamond),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if not on hero, destroy params and hud variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Roadhog);
+	}
+
+	actions
+	{
+		Destroy HUD Text(Player Variable(Event Player, Roadhog_Chainhook_Hud_Storage));
+		Set Player Variable(Event Player, Roadhog_Chainhook_Uses, False);
+		disabled Set Max Health(Event Player, 100);
+		Set Ability 1 Enabled(Event Player, True);
+		Set Ability 1 Enabled(Event Player, True);
+	}
+}
+
+rule("0----------| Anchor - Roadhog Ability 1 |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Variable is (0) disable Ability")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Roadhog_Chainhook_Uses) <= 0;
+		Hero Of(Event Player) == Hero(Roadhog);
+	}
+
+	actions
+	{
+		Wait(1, Ignore Condition);
+		Set Ability 1 Enabled(Event Player, False);
+	}
+}
+
+rule("If Variable is above (0) enable Ability")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Roadhog_Chainhook_Uses) >= 6;
+		Hero Of(Event Player) == Hero(Roadhog);
+	}
+
+	actions
+	{
+		Wait(2, Ignore Condition);
+		Set Ability 1 Enabled(Event Player, True);
+	}
+}
+
+rule("If using Chain Hook, subtract (1) from the Variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Is Using Ability 1(Event Player) == True;
+		Hero Of(Event Player) == Hero(Roadhog);
+	}
+
+	actions
+	{
+		Wait(0.500, Ignore Condition);
+		Modify Player Variable(Event Player, Roadhog_Chainhook_Uses, Subtract, 1);
+	}
+}
+
+rule("0----------| Roadhog Ability 2 |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If using Take-a-Breather, add (1) to the Variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Roadhog;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Roadhog_Chainhook_Uses) < 6;
+		Hero Of(Event Player) == Hero(Roadhog);
+		Is Using Ability 2(Event Player) == True;
+	}
+
+	actions
+	{
+		Wait(0.500, Ignore Condition);
+		Modify Player Variable(Event Player, Roadhog_Chainhook_Uses, Add, 1);
+	}
+}
+
+rule("0----------( Reinhardt Both - The Plague)----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If using ability 1, Set Switch to (1)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Reinhardt;
+	}
+
+	conditions
+	{
+		Is Using Ability 1(Event Player) == True;
+		Player Variable(Event Player, Reinhardt_Charge_Switch) == 0;
+		Hero Of(Event Player) == Hero(Reinhardt);
+	}
+
+	actions
+	{
+		Wait(0.400, Ignore Condition);
+		Set Player Variable(Event Player, Reinhardt_Charge_Switch, 1);
+	}
+}
+
+rule("If not using ability 1, Set Swith to (0)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Reinhardt;
+	}
+
+	conditions
+	{
+		Is Using Ability 1(Event Player) == False;
+		Player Variable(Event Player, Reinhardt_Charge_Switch) == 1;
+		Hero Of(Event Player) == Hero(Reinhardt);
+	}
+
+	actions
+	{
+		Wait(0.500, Ignore Condition);
+		Set Player Variable(Event Player, Reinhardt_Charge_Switch, 0);
+	}
+}
+
+rule("If using Ability 1, and button is pressed again, stop Ability 1")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Reinhardt;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 1) == True;
+		Player Variable(Event Player, Reinhardt_Charge_Switch) == 1;
+		Hero Of(Event Player) == Hero(Reinhardt);
+	}
+
+	actions
+	{
+		Set Status(Event Player, Null, Rooted, 0.300);
+	}
+}
+
+rule("0----------| The Guardian Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("if on hero | Create Hud Text | Set Variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Mercy);
+	}
+
+	actions
+	{
+		Set Healing Dealt(Event Player, 120);
+		Disallow Button(Event Player, Ultimate);
+		Set Ability 2 Enabled(Event Player, False);
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Soul Mend", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Soul_Mend_Cooldown), Null), Left, -1,
+			Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Soul_Mend_Storage, Last Text ID);
+		"Prevents the Game from keeping the same Cooldown from going"
+		Set Player Variable(Event Player, Soul_Mend_Cooldown, 0);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Support", Null, Null, Null), Icon String(Heart),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if not on hero | Destroy Hud Text |Destroy Variables")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Mercy);
+	}
+
+	actions
+	{
+		Set Healing Dealt(Event Player, 100);
+		Set Ability 2 Enabled(Event Player, True);
+		Allow Button(Event Player, Ultimate);
+		Destroy HUD Text(Player Variable(Event Player, Soul_Mend_Storage));
+	}
+}
+
+rule("0----------| The Guardian Soul Mend Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Using Soul Mend | Increase healing to (200hps) | Prep cooldown for subroutine")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Soul_Mend_Cooldown) == 0;
+		Is Alive(Event Player) == True;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Has Status(Event Player, Stunned))))) == False;
+		Is Button Held(Event Player, Ability 2) == True;
+		Player Variable(Event Player, Resurrect_Switch) == 0;
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Soul_Mend_Cooldown, 16);
+		Set Healing Dealt(Event Player, 400);
+		Wait(6, Ignore Condition);
+		Set Healing Dealt(Event Player, 100);
+		Call Subroutine(Sould_Mend_Cooldown_Manager);
+		Wait(0.100, Ignore Condition);
+		Stop Chasing Player Variable(Event Player, Soul_Mend_Cooldown);
+		Small Message(Event Player, Custom String("Soul Mend Ready", Null, Null, Null));
+	}
+}
+
+rule("Soul Mend | Subroutine cooldown manager")
+{
+	event
+	{
+		Subroutine;
+		Sould_Mend_Cooldown_Manager;
+	}
+
+	actions
+	{
+		Small Message(Event Player, Custom String("Soul Mend Cooldown Started", Null, Null, Null));
+		Chase Player Variable At Rate(Event Player, Soul_Mend_Cooldown, 0, 1, Destination and Rate);
+		Wait(16, Ignore Condition);
+	}
+}
+
+rule("0----------| The Guardian Ultimate Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("if Using Resurrect | Start Ultimate Cast Animation")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Is Alive(Event Player) == True;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Has Status(Event Player, Stunned))))) == False;
+		Is Button Held(Event Player, Ultimate) == True;
+		Number of Living Players(Team Of(Event Player)) > 0;
+		Ultimate Charge Percent(Event Player) == 100;
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Resurrect_Switch, 1);
+		Set Ability 2 Enabled(Event Player, True);
+		Wait(0.100, Ignore Condition);
+		Press Button(Event Player, Ability 2);
+		Wait(0.200, Ignore Condition);
+		Abort If(Is Using Ability 2(Event Player));
+		Set Ability 2 Enabled(Event Player, False);
+		Set Player Variable(Event Player, Resurrect_Switch, 0);
+	}
+}
+
+rule("if Ressurect completes | Set Ultimate Charge to 0% | Announce Ultimate")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Is Alive(Event Player) == True;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Has Status(Event Player, Stunned))))) == False;
+		Is Using Ability 2(Event Player) == True;
+	}
+
+	actions
+	{
+		Skip If(Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(
+			Has Status(Event Player, Frozen), Or(Has Status(Event Player, Stunned), Is Dead(Event Player)))))), 1);
+		Set Move Speed(Event Player, 400);
+		Wait(1.600, Ignore Condition);
+		Set Move Speed(Event Player, 100);
+		Wait(0.150, Ignore Condition);
+		Set Ultimate Charge(Event Player, 0);
+		Set Player Variable(Event Player, Resurrect_Switch, 0);
+		Big Message(All Players(Team Of(Event Player)), String("{0} {1}", Hero Icon String(Hero(Mercy)), Custom String(
+			"Kailangan ka pa rin namin", Null, Null, Null), Null));
+		Big Message(All Players(Opposite Team Of(Team Of(Event Player))), String("{0} {1}", Hero Icon String(Hero(Mercy)), Custom String(
+			"Enemy Revived", Null, Null, Null), Null));
+		Set Status(Event Player, Event Player, Phased Out, 1.500);
+	}
+}
+
+rule("If Ultimate Charge less than 100% | Set Ability 2 to (False)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Ultimate Charge Percent(Event Player) < 100;
+	}
+
+	actions
+	{
+		Set Ability 2 Enabled(Event Player, False);
+		Set Player Variable(Event Player, Resurrect_Switch, 0);
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+rule("If not Using Ability 2 | Stop Resurrect Movement speed buff")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Mercy;
+	}
+
+	conditions
+	{
+		Is Using Ability 2(Event Player) == False;
+	}
+
+	actions
+	{
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+rule("0----------| Melius Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("if on hero | Disable Discord")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Zenyatta;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Zenyatta);
+	}
+
+	actions
+	{
+		Set Ability 2 Enabled(Event Player, False);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Support", Null, Null, Null), Icon String(Heart),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if not on hero | Enable Discord")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Zenyatta);
+	}
+
+	actions
+	{
+		Set Ability 2 Enabled(Event Player, True);
+	}
+}
+
+rule("0----------| Orisa Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Orisa - Heal if doing damage")
+{
+	event
+	{
+		Player Dealt Damage;
+		Team 1;
+		Orisa;
+	}
+
+	actions
+	{
+		Heal(Event Player, Event Player, 5.500);
+	}
+}
+
+rule("0----------| Brigitte Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If on hero, set variables & storage")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("CCE Shield", Null, Null, Null), String(
+			"{0} {1}", Custom String("Energy:", Null, Null, Null), String("{0}%", Player Variable(Event Player, Brigitte_CCE_Charge), Null,
+			Null), Null), Left, -2, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Brigitte_CCE_Hud_Storage, Last Text ID);
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), String("{0} {1}", Custom String("Airburst Charges:", Null,
+			Null, Null), Player Variable(Event Player, Air_Burst_Charges), Null), String("{0} {1}", Custom String("Cooldown:", Null, Null,
+			Null), Player Variable(Event Player, Air_Burst_Cooldown), Null), Right, -2, Sky Blue, White, White, Visible To and String,
+			Default Visibility);
+		Set Player Variable(Event Player, Air_Burst_Storage, Last Text ID);
+		Set Player Variable(Event Player, Brigitte_CCE_Charge, 100);
+		Set Player Variable(Event Player, Brigitte_CCE_Switch, 1);
+		Set Player Variable(Event Player, Air_Burst_Charges, 3);
+		Disallow Button(Event Player, Ability 2);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Support", Null, Null, Null), Icon String(Heart),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if not on hero, destroy variables and reset storage")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Brigitte);
+	}
+
+	actions
+	{
+		Destroy HUD Text(Player Variable(Event Player, Brigitte_CCE_Hud_Storage));
+		Destroy HUD Text(Player Variable(Event Player, Air_Burst_Storage));
+		Set Player Variable(Event Player, Brigitte_CCE_Switch, False);
+		Set Player Variable(Event Player, Air_Burst_Charges, False);
+		Allow Button(Event Player, Secondary Fire);
+		Allow Button(Event Player, Ability 2);
+	}
+}
+
+rule("0----------| Brigitte CCE Shield Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("Recharge CCE Shield 1% every 1 seconds")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) < 100;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Wait(0, Ignore Condition);
+		Skip If(Compare(Player Variable(Event Player, Brigitte_CCE_Charge), >=, 100), 3);
+		Skip If(Is Button Held(Event Player, Secondary Fire), 2);
+		Wait(0.600, Ignore Condition);
+		Modify Player Variable(Event Player, Brigitte_CCE_Charge, Add, Random Real(0.600, 0.800));
+		Loop;
+	}
+}
+
+rule("If CCE Shield charge is bellow 0%, set to 0")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) < 0;
+		Player Variable(Event Player, Brigitte_CCE_Charge) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Brigitte_CCE_Charge, 0);
+	}
+}
+
+rule("If CCE Shield charge is above 100% set to 100")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) > 100;
+		Player Variable(Event Player, Brigitte_CCE_Switch) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Brigitte_CCE_Charge, 100);
+	}
+}
+
+rule("Create CCE Shield vfx/sfx & damage victim if using it")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Primary Fire) == True;
+		Is Firing Secondary(Event Player) == True;
+		Player Variable(Event Player, Brigitte_CCE_Charge) > 0;
+		Distance Between(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player)))) <= 28;
+		Is In Line of Sight(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))),
+			Enemy Barriers Block LOS) == True;
+		Is In View Angle(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))), 80) == True;
+		Is Alive(Event Player) == True;
+		Player Variable(Event Player, Brigitte_CCE_Switch) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Abort If Condition Is False;
+		Abort If(Has Status(Event Player, Knocked Down));
+		Wait(0, Ignore Condition);
+		Damage(Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))), Event Player, 1);
+		Create Beam Effect(All Players(All Teams), Bad Beam, Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(
+			Event Player))), Red, Visible To Position and Radius);
+		Set Player Variable(Event Player, Brigitte_CCE_VFX_Beam, Last Created Entity);
+		Create Effect(All Players(All Teams), Bad Aura, Red, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))), 1,
+			Visible To Position and Radius);
+		Set Player Variable(Event Player, Brigitte_CCE_VFX_Aura, Last Created Entity);
+		Play Effect(All Players(All Teams), Debuff Impact Sound, White, Event Player, Add(Players Within Radius(Event Player, 12,
+			All Teams, Off), 50));
+		Wait(0.100, Ignore Condition);
+		Destroy Effect(Player Variable(Event Player, Brigitte_CCE_VFX_Beam));
+		Destroy Effect(Player Variable(Event Player, Brigitte_CCE_VFX_Aura));
+		Loop If Condition Is True;
+	}
+}
+
+rule("If CCE Shield is being used, modify variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Primary Fire) == True;
+		Is Button Held(Event Player, Secondary Fire) == True;
+		Player Variable(Event Player, Brigitte_CCE_Charge) > 0;
+		Player Variable(Event Player, Brigitte_CCE_Switch) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Abort If Condition Is False;
+		Wait(0.100, Ignore Condition);
+		Modify Player Variable(Event Player, Brigitte_CCE_Charge, Subtract, 2);
+		Loop If Condition Is True;
+	}
+}
+
+rule("if CCE Shield is active, slow down the victim affected by it")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Primary Fire) == True;
+		Is Firing Secondary(Event Player) == True;
+		Player Variable(Event Player, Brigitte_CCE_Charge) > 0;
+		Distance Between(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player)))) <= 28;
+		Is In Line of Sight(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))),
+			Enemy Barriers Block LOS) == True;
+		Is In View Angle(Event Player, Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))), 80) == True;
+		Player Variable(Event Player, Brigitte_CCE_Switch) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Abort If Condition Is False;
+		Abort If(Has Status(Event Player, Knocked Down));
+		Set Move Speed(Closest Player To(Event Player, Opposite Team Of(Team Of(Event Player))), 60);
+	}
+}
+
+rule("If CCE Shield Charge is 0% reset victims movement speed to 100")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) <= 0;
+		Player Variable(Event Player, Brigitte_CCE_Switch) == 1;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Set Move Speed(All Players(Opposite Team Of(Team Of(Event Player))), 100);
+	}
+}
+
+rule("If CCE Shield is used but primary is not pressed, set victims movement speed back to 100")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Primary Fire) == False;
+		Is Firing Secondary(Event Player) == True;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Set Move Speed(All Players(Opposite Team Of(Team Of(Event Player))), 100);
+	}
+}
+
+rule("If CCE Shield is not used, set victims movement speed back to 100")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Firing Secondary(Event Player) == False;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Set Move Speed(All Players(Opposite Team Of(Team Of(Event Player))), 100);
+	}
+}
+
+rule("If CCE Shield Charge is 0% disable CCE shield")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) <= 0;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Disallow Button(Event Player, Secondary Fire);
+		Set Status(Event Player, Null, Stunned, 2);
+		Set Player Variable(Event Player, Brigitte_CCE_Switch, 0);
+	}
+}
+
+rule("If CCE Shield Charge is 10% enable CCE")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Brigitte_CCE_Charge) >= 10;
+		Hero Of(Event Player) == Hero(Brigitte);
+	}
+
+	actions
+	{
+		Allow Button(Event Player, Secondary Fire);
+		Set Player Variable(Event Player, Brigitte_CCE_Switch, 1);
+	}
+}
+
+rule("0----------| Brigitte Airburst Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If button is Pressed, Prep Ability 2")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 2) == True;
+		Is Button Held(Event Player, Interact) == False;
+		Is Button Held(Event Player, Secondary Fire) == False;
+		Player Variable(Event Player, Air_Burst_Cooldown) == 0;
+		Player Variable(Event Player, Air_Burst_Charges) > 0;
+		Is In Air(Event Player) == True;
+		Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Knocked Down), Or(Has Status(Event Player, Asleep), Or(Has Status(
+			Event Player, Frozen), Has Status(Event Player, Stunned))))) == False;
+		Distance Between(Event Player, Nearest Walkable Position(Event Player)) >= 4;
+	}
+
+	actions
+	{
+		Play Effect(Players Within Radius(Event Player, 26, All Teams, Surfaces), Explosion Sound, White, Event Player, 50);
+		Play Effect(Players Within Radius(Event Player, 26, Opposite Team Of(Team Of(Event Player)), Surfaces), Bad Explosion, Red,
+			Event Player, 5);
+		Play Effect(Players Within Radius(Event Player, 26, Team Of(Event Player), Surfaces), Good Explosion, Sky Blue, Event Player, 5);
+		Set Status(Event Player, Null, Rooted, 0.400);
+		Skip If(Compare(Player Variable(Event Player, Air_Burst_Charges), ==, 1), 1);
+		Set Player Variable(Event Player, Air_Burst_Cooldown, 1.500);
+		Wait(0.200, Ignore Condition);
+		Modify Player Variable(Event Player, Air_Burst_Charges, Subtract, 1);
+		Teleport(Event Player, Nearest Walkable Position(Event Player));
+		Chase Player Variable At Rate(Event Player, Air_Burst_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("If Airburst Cooldown is (0) and Charges are Above (0) Stop chasing Variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Air_Burst_Cooldown) == 0;
+		Player Variable(Event Player, Air_Burst_Charges) > 1;
+	}
+
+	actions
+	{
+		Stop Chasing Player Variable(Event Player, Air_Burst_Cooldown);
+	}
+}
+
+rule("If Airburst Charges Reach (0) set Cooldown")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Air_Burst_Charges) == 0;
+	}
+
+	actions
+	{
+		Set Player Variable(Event Player, Air_Burst_Cooldown, 45);
+		Chase Player Variable At Rate(Event Player, Air_Burst_Cooldown, 0, 1, Destination and Rate);
+	}
+}
+
+rule("If Airburst Cooldown is (0) set Charges to (3) and Stop chasing Variable")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Brigitte;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Air_Burst_Cooldown) == 0;
+		Player Variable(Event Player, Air_Burst_Charges) == 0;
+	}
+
+	actions
+	{
+		Stop Chasing Player Variable(Event Player, Air_Burst_Cooldown);
+		Set Player Variable(Event Player, Air_Burst_Charges, 3);
+	}
+}
+
+rule("0----------| Krystalite Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If on Krystalite, Create Hud | Disable Ability 2")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Echo;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Echo);
+	}
+
+	actions
+	{
+		Create HUD Text(Event Player, Hero Icon String(Hero Of(Event Player)), Custom String("Quick Assist", Null, Null, Null), String(
+			"{0} {1}", Custom String("Cooldown:", Null, Null, Null), Player Variable(Event Player, Krystalite_Ability2_Cooldown), Null),
+			Right, -2, Sky Blue, White, White, Visible To and String, Default Visibility);
+		Set Player Variable(Event Player, Krystalite_Ability2_Storage, Last Text ID);
+		Set Ability 2 Enabled(Event Player, False);
+		Wait(2, Ignore Condition);
+		Small Message(Event Player, String("{0} {1} {2}", Custom String("Operator Role: Support", Null, Null, Null), Icon String(Heart),
+			Hero Icon String(Hero Of(Event Player))));
+	}
+}
+
+rule("if not on Krystalite, Destroy Hud | Enable Ability 2")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Echo;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Echo);
+	}
+
+	actions
+	{
+		Destroy HUD Text(Player Variable(Event Player, Krystalite_Ability2_Storage));
+		Set Player Variable(Event Player, Krystalite_Ability2_Cooldown, False);
+		Wait(2, Ignore Condition);
+		Set Ability 2 Enabled(Event Player, True);
+	}
+}
+
+rule("0----------| Krystalite Quick Assist Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If button is pressed | Prep Ability 2 | Heal & Start Cooldown")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Echo;
+	}
+
+	conditions
+	{
+		Is Button Held(Event Player, Ability 2) == True;
+		Player Variable(Event Player, Krystalite_Ability2_Cooldown) == 0;
+		Is On Ground(Event Player) == True;
+		Is Dead(Event Player) == False;
+	}
+
+	actions
+	{
+		"Plays a Visual Effect for the Ally"
+		Play Effect(All Players(Team Of(Event Player)), Ring Explosion, Yellow, Event Player, 24);
+		"Plays a Visual Effect for the Enemy"
+		Play Effect(All Players(Opposite Team Of(Team Of(Event Player))), Ring Explosion, Red, Event Player, 24);
+		"Plays a Sound to let the Players know they where healed"
+		Play Effect(Players Within Radius(Event Player, 24, Team Of(Event Player), Off), Buff Impact Sound, White, Event Player, 50);
+		"Lets the Enemy know there enemies was healed"
+		Play Effect(Players Within Radius(Event Player, 24, Opposite Team Of(Team Of(Event Player)), Off), Debuff Impact Sound, White,
+			Event Player, 50);
+		Heal(Players Within Radius(Event Player, 24, Team Of(Event Player), Surfaces And Enemy Barriers), Event Player, 125);
+		Set Player Variable(Event Player, Krystalite_Ability2_Cooldown, 16);
+		Wait(3, Ignore Condition);
+		Chase Player Variable At Rate(Event Player, Krystalite_Ability2_Cooldown, 0, 1, Destination and Rate);
+		"Triggers a Bonus effect if the Eventplayer has a Negative Status Effect"
+		If(Compare(Or(Has Status(Event Player, Hacked), Or(Has Status(Event Player, Burning), Or(Has Status(Event Player, Knocked Down),
+			Or(Has Status(Event Player, Asleep), Or(Has Status(Event Player, Frozen), Or(Has Status(Event Player, Rooted), Has Status(
+			Event Player, Stunned))))))), ==, True));
+			Set Status(Event Player, Event Player, Invincible, 1.500);
+		End;
+	}
+}
+
+rule("Stop Cooldown if Variable reaches (0)")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Echo;
+	}
+
+	conditions
+	{
+		Player Variable(Event Player, Krystalite_Ability2_Cooldown) == 0;
+	}
+
+	actions
+	{
+		Stop Chasing Player Variable(Event Player, Krystalite_Ability2_Cooldown);
+	}
+}
+
+rule("0----------| Krystalite Supportive Regeneration Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If Eventplayer is on Hero | Start Passive")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		Echo;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Echo);
+		Is Alive(Event Player) == True;
+	}
+
+	actions
+	{
+		While(Compare(Is Alive(Event Player), ==, True));
+			Start Heal Over Time(Players Within Radius(Event Player, 30, Team Of(Event Player), Surfaces), Event Player, 1, 4);
+			Wait(1, Ignore Condition);
+		End;
+	}
+}
+
+rule("If Eventplayer is not on Hero | End Passive")
+{
+	event
+	{
+		Ongoing - Each Player;
+		Team 1;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Echo);
+	}
+
+	actions
+	{
+		Stop All Heal Over Time(Event Player);
+	}
+}
+
+rule("0----------| Sombra Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If on Sombra | Disable Ability 2")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Sombra;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) == Hero(Sombra);
+	}
+
+	actions
+	{
+		Set Ability 2 Enabled(Event Player, False);
+	}
+}
+
+rule("if not on Sombra | Enable Ability 2")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	conditions
+	{
+		Hero Of(Event Player) != Hero(Sombra);
+	}
+
+	actions
+	{
+		Set Ability 2 Enabled(Event Player, True);
+	}
+}
+
+rule("0----------| Sombra Ability 1 Config |----------0")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
+
+rule("If using Ability 1,Start Heal Overtime")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Sombra;
+	}
+
+	conditions
+	{
+		Is Using Ability 1(Event Player) == True;
+	}
+
+	actions
+	{
+		Wait(0, Ignore Condition);
+		Start Heal Over Time(Event Player, Event Player, 1, 16);
+		Wait(1, Ignore Condition);
+		Loop If Condition Is True;
+	}
+}
+
+rule("If not using Ability 1, Stop Heal Overtime")
+{
+	event
+	{
+		Ongoing - Each Player;
+		All;
+		Sombra;
+	}
+
+	conditions
+	{
+		Is Using Ability 1(Event Player) == False;
+	}
+
+	actions
+	{
+		Stop All Heal Over Time(Event Player);
+	}
+}
